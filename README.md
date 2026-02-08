@@ -13,6 +13,7 @@ Features.
 - Toggle between Dark and Light themes
 
  - secure login with password protection
+ - # Password: islam123
 
 # Windows Installer Available
 
